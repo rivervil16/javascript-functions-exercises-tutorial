@@ -1,5 +1,9 @@
-function multy(a,b){
+/* multy(a,b){
     return a*b;
+}*/
+
+const multy =(a,b)=>{
+    return a * b;
 }
 
 //Dont edit anything below this line
