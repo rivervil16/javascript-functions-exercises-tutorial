@@ -10,4 +10,3 @@ const rapid = (myString) => {
 // Work above this line; do not change code below
 let str = "John";
 console.log(rapid(str));
-let 
